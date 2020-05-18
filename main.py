@@ -20,7 +20,7 @@ from palettes.palettes import choosePalette
       może generatory się tutaj przydadzą ? :)
 
     - Palety, które widać w folderze palettes nie sa moje, ja tylko napisałem skrypt, który je wykorzystuje. Można 
-      je pobrać ze strony .... w formacie .hex i będą tutaj dostępne do używania
+      je pobrać ze strony https://lospec.com/palette-list w formacie .hex i będą tutaj dostępne do używania
 
     - Do testowania konwersji używałem obrazów ze strony wallHaven.org, można znaleźć tam znaleźć też fajne tapety na komputer :)
 
