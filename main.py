@@ -26,6 +26,7 @@ from palettes.palettes import choosePalette
 
 """
 
+test = 1
 
 cont = True
 while cont:
